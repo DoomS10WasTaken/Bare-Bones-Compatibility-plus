@@ -1,5 +1,5 @@
 # English
-## I am spanish native speaker, sorry if the the translation isn't so good
+I am spanish native speaker, sorry if the the translation isn't so good
 > One pack for many mods, enjoy playing your trailertastic world
 
 Compatible mods:
