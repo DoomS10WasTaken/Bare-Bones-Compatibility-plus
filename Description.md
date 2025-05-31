@@ -66,8 +66,6 @@ Compatible mods:
 
 </details>
 
-There's no suggestion links for now
-
 # Español
 > Un pack para muchos mods, disfruta jugando tu trailertastico mundo
 
@@ -134,5 +132,3 @@ Mods compatibles:
 5. Terminar las texturas de [Cobblemon](https://modrinth.com/mod/cobblemon)
 
 </details>
-
-No hay links se sugerencias por ahora
