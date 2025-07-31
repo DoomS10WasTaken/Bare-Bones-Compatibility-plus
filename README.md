@@ -1,5 +1,4 @@
 # English
-## I'm native spanish speaker, sorry if the the translation isn't so good
 > Version System:
 1. [First number]: very big update
 2. [Second number]: big-medium update
