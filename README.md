@@ -1,8 +1,4 @@
 # English
-> Version System:
-1. [First number]: very big update
-2. [Second number]: big-medium update
-3. [Third number]: bug fix or texture correction update
 ## 
 > One pack for many mods, enjoy playing your trailertastic world
 
@@ -76,10 +72,6 @@ Compatible mods:
 </details>
 
 # Español
-> Sistema de versiones:
-1. [Primer número]: Actualización muy grande
-2. [Segundo número]: Actualización mediana-grande
-3. [Tercer número]: Actualización bug fix o de correción de texturas
 ## 
 > Un pack para muchos mods, disfruta jugando tu trailertastico mundo
 
