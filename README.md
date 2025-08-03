@@ -1,5 +1,4 @@
 # English
-## 
 > One pack for many mods, enjoy playing your trailertastic world
 
 Official downloads:
@@ -72,7 +71,6 @@ Compatible mods:
 </details>
 
 # Español
-## 
 > Un pack para muchos mods, disfruta jugando tu trailertastico mundo
 
 Descargas oficiales:
